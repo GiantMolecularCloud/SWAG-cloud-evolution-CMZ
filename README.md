@@ -5,8 +5,8 @@
 
 Krieger, Nico; Ott, Jürgen; Beuther, Henrik; Walter, Fabian; Kruijssen, J. M. Diederik; Meier, David S.; Mills, Elisabeth A. C.; Contreras, Yanett; Edwards, Phil; Ginsburg, Adam; Henkel, Christian; Henshaw, Jonathan; Jackson, James; Kauffmann, Jens; Longmore, Steven; Martín, Sergio; Morris, Mark R.; Pillai, Thushara; Rickert, Matthew; Rosolowsky, Erik; Shinnaga, Hiroko; Walsh, Andrew; Yusef-Zadeh, Farhad; Zhang, Qizhou
 
-The Astrophysical Journal, November 2017
-DOI: 10.3847/1538-4357/aa951c
+The Astrophysical Journal, November 2017  
+DOI: 10.3847/1538-4357/aa951c  
 arXiv: [arXiv:1710.06902](https://ui.adsabs.harvard.edu/link_gateway/2017ApJ...850...77K/EPRINT_HTML)  
 ADS: [https://ui.adsabs.harvard.edu/abs/2017ApJ...850...77K/abstract](https://ui.adsabs.harvard.edu/abs/2017ApJ...850...77K/abstract)  
 
